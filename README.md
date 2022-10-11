@@ -1,4 +1,4 @@
-Encrypt
+Bincrypt
 
 ## Estudo realizado com o intuito de aprender o python de maneira prática.
 
